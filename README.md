@@ -1,0 +1,2 @@
+# PauseCancelUntilStart
+曲がスタートするまでポーズメニュー表示をキャンセルします(AutoPauseStealthの不具合対策用)
