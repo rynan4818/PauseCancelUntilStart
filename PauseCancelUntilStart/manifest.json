@@ -2,11 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
   "id": "PauseCancelUntilStart",
   "name": "PauseCancelUntilStart",
-  "author": "",
+  "author": "Rynan",
   "version": "0.0.1",
-  "description": "",
-  "gameVersion": "1.18.3",
+  "description": "Cancels the pause menu display until the song starts when using AutoPauseStealth",
+  "gameVersion": "1.21.0",
   "dependsOn": {
-    "BSIPA": "^4.2.0"
+    "BSIPA": "^4.2.2",
+    "AutoPauseStealth": "^0.1.17"
   }
 }
